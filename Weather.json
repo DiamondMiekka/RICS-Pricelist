@@ -1,0 +1,98 @@
+{
+  "Clear": {
+    "DefName": "Clear",
+    "Label": "clear",
+    "Description": "A clear day. No penalties or modifiers.",
+    "BaseCost": 250,
+    "KarmaType": "Good",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "Fog": {
+    "DefName": "Fog",
+    "Label": "fog",
+    "Description": "Fog reduces the accuracy of ranged weapons.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "Rain": {
+    "DefName": "Rain",
+    "Label": "rain",
+    "Description": "Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "DryThunderstorm": {
+    "DefName": "DryThunderstorm",
+    "Label": "dry thunderstorm",
+    "Description": "Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.",
+    "BaseCost": 500,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "RainyThunderstorm": {
+    "DefName": "RainyThunderstorm",
+    "Label": "rainy thunderstorm",
+    "Description": "The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "FoggyRain": {
+    "DefName": "FoggyRain",
+    "Label": "foggy rain",
+    "Description": "Reduces accuracy and movement speed.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "SnowHard": {
+    "DefName": "SnowHard",
+    "Label": "hard snow",
+    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  },
+  "SnowGentle": {
+    "DefName": "SnowGentle",
+    "Label": "gentle snow",
+    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 250,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Core",
+    "modactive": true,
+    "Version": 1
+  }
+}
