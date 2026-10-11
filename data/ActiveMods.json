@@ -1,18 +1,24 @@
 {
-  "exportedAt": "2026-09-20T05:04:34.4824691Z",
-  "totalActiveMods": 33,
+  "exportedAt": "2026-10-11T22:58:13.2322037Z",
+  "totalActiveMods": 37,
   "mods": [
+    {
+      "author": "Captolamia",
+      "name": "[CAP] RICS Research Vote",
+      "steamId": "3804630322",
+      "version": "1.1.1"
+    },
     {
       "author": "Captolamia",
       "name": "[CAP] RICS Storyteller",
       "steamId": "3794174734",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": "1.50.0"
+      "version": "1.51.0"
     },
     {
       "author": "FrozenSnowFox",
@@ -30,6 +36,18 @@
       "author": "sulusdacor,  james76543,  Meltup,  leugimimi",
       "name": "Advanced Power Plus",
       "steamId": "2032409628",
+      "version": null
+    },
+    {
+      "author": "Latta,  Skullywag,  Antaios",
+      "name": "BetterCoolers",
+      "steamId": "1430093399",
+      "version": null
+    },
+    {
+      "author": "Latta,  Skullywag,  Spdskatr,  Antaios.kotobike",
+      "name": "BetterVents",
+      "steamId": "3231137156",
       "version": null
     },
     {
@@ -132,6 +150,12 @@
       "author": "Ratys",
       "name": "Mad Skills",
       "steamId": "731111514",
+      "version": null
+    },
+    {
+      "author": "GGerom",
+      "name": "Meteor Shower",
+      "steamId": "3250673176",
       "version": null
     },
     {
